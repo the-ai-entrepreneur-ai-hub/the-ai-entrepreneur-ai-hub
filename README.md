@@ -111,6 +111,14 @@ Always-on HTTP endpoints -- send a request, get data back in milliseconds:
 - **[Domain WHOIS Lookup](https://apify.com/george.the.developer/domain-whois-lookup)** -- Registration, expiry, nameservers -- `$0.005/domain`
 - **[Company Enrichment API](https://apify.com/george.the.developer/company-enrichment-api)** -- Firmographics from company name -- `$0.01/company`
 
+## Recent launches (May 2026)
+
+Three lead-gen actors shipped 2026-05-08. All standby APIs with pay-per-result billing:
+
+- **[Shopify DTC Brand Discovery](https://apify.com/george.the.developer/shopify-dtc-brand-discovery)** -- Find Shopify stores by niche, filter by detected tech stack across 30 patterns (Klaviyo, Postscript, Yotpo, etc.), opportunity score, missing-app pitch angle for SDRs -- `$0.02/discovered`, `$0.05/enriched`
+- **[ATS Hire-Trigger Intent Scraper](https://apify.com/george.the.developer/ats-hire-trigger-intent-scraper)** -- Greenhouse, Lever, Ashby, SmartRecruiters in one API. Tech keyword extraction, hiring-surge flags, function tagging -- `$0.005/job`, `$0.015/intent-enriched`
+- **[Funded Startup Tracker](https://apify.com/george.the.developer/funded-startup-tracker)** -- TechCrunch + SEC EDGAR Form D fusion. Round size, lead investor, board members, contact-discovery hint that names the founder who signed the filing -- `$0.04/funding-event`, `$0.10/startup-enriched`
+
 ## Tech Stack
 
 ```
